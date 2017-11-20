@@ -1,4 +1,4 @@
-- hosts: 
+- hosts: localhost 
   tasks:
     - debug: 
         msg: "Heloo"
